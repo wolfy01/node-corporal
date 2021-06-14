@@ -1,7 +1,7 @@
 {
   "name": "wolfy01-corporal",
   "description": "An extensible interactive shell utility. (This package was not made by me, it was made by mrvisser. This package is meant for my projects. Please use the original.)",
-  "version": "0.3.9",
+  "version": "0.3.10",
   "homepage": "https://github.com/wolfy01/node-corporal",
   "keywords": [
     "arguments",
