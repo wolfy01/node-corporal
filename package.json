@@ -1,8 +1,8 @@
 {
-  "name": "corporal",
-  "description": "An extensible interactive shell utility",
-  "version": "0.5.1",
-  "homepage": "https://github.com/mrvisser/node-corporal",
+  "name": "wolfy01-readcommand",
+  "description": "An extension to readline that reads and parses a multi-line shell command. (This package was not made by me, it was made by mrvisser. This package is meant for my projects. Please use the original.)",
+  "version": "0.3.2",
+  "homepage": "https://github.com/wolfy01/node-readcommand",
   "keywords": [
     "arguments",
     "argv",
@@ -12,32 +12,23 @@
     "shell"
   ],
   "author": {
-    "name": "Branden Visser",
-    "email": "mrvisser@gmail.com"
+    "name": "Wolfy01",
+    "email": "wolfy3543@gmail.com"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mrvisser/node-corporal.git"
-  },
-  "bugs": {
-    "url": "https://github.com/mrvisser/node-corporal/issues"
+    "url": "git://github.com/wolfy01/node-readcommand.git"
   },
   "main": "./index.js",
-  "scripts": {
-    "test": "node -e \"require('grunt').tasks(['mochaTest']);\""
-  },
   "dependencies": {
-    "colors": "0.6.x",
-    "optimist": "0.6.x",
-    "readcommand": "0.3.x",
-    "sprintf-js": "0.0.x",
-    "underscore": "1.6.x"
+    "mocha": "^9.0.0",
+    "underscore": "^1.13.1"
   },
   "devDependencies": {
-    "grunt": "latest",
-    "grunt-mocha-test": "latest",
-    "grunt-release": "~0.7.0"
+    "grunt": "^1.4.1",
+    "grunt-mocha-test": "^0.13.3",
+    "grunt-release": "^0.14.0"
   },
   "engines": {
     "node": ">=0.8"
