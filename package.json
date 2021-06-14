@@ -26,9 +26,9 @@
     "underscore": "^1.13.1"
   },
   "devDependencies": {
-    "grunt": "^1.4.1",
-    "grunt-mocha-test": "^0.13.3",
-    "grunt-release": "^0.14.0"
+    "grunt": "latest",
+    "grunt-mocha-test": "latest",
+    "grunt-release": "~0.7.0"
   },
   "engines": {
     "node": ">=0.8"
