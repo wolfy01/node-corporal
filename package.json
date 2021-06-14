@@ -1,7 +1,7 @@
 {
   "name": "wolfy01-readcommand",
   "description": "An extension to readline that reads and parses a multi-line shell command. (This package was not made by me, it was made by mrvisser. This package is meant for my projects. Please use the original.)",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "homepage": "https://github.com/wolfy01/node-readcommand",
   "keywords": [
     "arguments",
@@ -26,9 +26,9 @@
     "underscore": "^1.13.1"
   },
   "devDependencies": {
-    "grunt": "^1.4.1",
-    "grunt-mocha-test": "^0.13.3",
-    "grunt-release": "^0.14.0"
+    "grunt": "0.4.5",
+    "grunt-mocha-test": "0.12.4",
+    "grunt-release": "~0.7.0"
   },
   "engines": {
     "node": ">=0.8"
