@@ -1,7 +1,7 @@
 {
   "name": "wolfy01-readcommand",
   "description": "An extension to readline that reads and parses a multi-line shell command. (This package was not made by me, it was made by mrvisser. This package is meant for my projects. Please use the original.)",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "homepage": "https://github.com/wolfy01/node-readcommand",
   "keywords": [
     "arguments",
