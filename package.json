@@ -28,7 +28,7 @@
     "colors": "^1.4.0",
     "mocha": "^9.0.0",
     "optimist": "^0.6.1",
-    "readcommand": "^0.3.0",
+    "wolfy01-readcommand": "^0.3.1",
     "sprintf-js": "^1.1.2",
     "underscore": "^1.13.1"
   },
