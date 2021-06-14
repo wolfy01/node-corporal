@@ -19,8 +19,7 @@ module.exports = function(grunt) {
             'options': {
                 'github': {
                     'repo': 'wolfy01/node-corporal',
-                    'usernameVar': 'GITHUB_USERNAME',
-                    'passwordVar': 'GITHUB_PASSWORD'
+                    'accessTokenVar': 'GITHUB_ACCESS_TOKEN',
                 }
             }
         }
