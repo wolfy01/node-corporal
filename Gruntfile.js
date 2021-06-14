@@ -18,7 +18,7 @@ module.exports = function(grunt) {
         'release': {
             'options': {
                 'github': {
-                    'repo': 'mrvisser/node-corporal',
+                    'repo': 'wolfy01/node-corporal',
                     'usernameVar': 'GITHUB_USERNAME',
                     'passwordVar': 'GITHUB_PASSWORD'
                 }
