@@ -22,7 +22,8 @@
   },
   "main": "./index.js",
   "scripts": {
-    "test": "node -e \"require('grunt').tasks(['mochaTest']);\""
+    "release": "release-it",
+    "test": "mocha tests/**.js
   },
   "dependencies": {
     "colors": "^1.4.0",
