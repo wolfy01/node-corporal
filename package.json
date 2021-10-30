@@ -28,7 +28,7 @@
   "dependencies": {
     "colors": "^1.4.0",
     "optimist": "^0.6.1",
-    "wolfy01-readcommand@wolfy01/node-readcommand": "^0.4.2",
+    "wolfy01-readcommand": "latest",
     "sprintf-js": "^1.1.2",
     "underscore": "^1.13.1"
   },
